@@ -1,9 +1,0 @@
-{
-
-  "name" : "sha-microservice-1-product",
-  "buildpacks" : [
-    {
-      "url": "heroku/gradle"
-    }
-  ]
-}
